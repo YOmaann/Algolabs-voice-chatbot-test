@@ -9,6 +9,7 @@ class speech_callback:
         self.queue = queue
     
     def _cb(self, r, audio):
+        print("Listened a phrase ;)))")
         try:
             txt = ""
             if self.args.stt == 'google':
