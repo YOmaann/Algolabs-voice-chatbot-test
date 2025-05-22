@@ -1,5 +1,5 @@
 import lib.models.gemini_helper as gemini
-
+#import lib.llmm.llmprompting.gemmacall as gemmacall
 
 class llm_helper:
     def __init__(self, args, q, out_q, stop_e):
@@ -18,6 +18,9 @@ class llm_helper:
             if self.args.llm == 'gemini':
                 response = gemini.fetch_response(text)
                 self.out_q.put(response)
+            #elif self.args.llm == 'gemma3':
+                #response = gemmacall("engdoc1.txt",text)
+
             else:
                 print("No llm model selected bhai >_<")
                 
