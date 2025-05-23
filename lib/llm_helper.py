@@ -10,6 +10,8 @@ class llm_helper:
         self.q = q
         self.stop_e = stop_e # event to stop thread
 
+        print("Preparing LLM..this might take a while..")
+
         if self.args.llm == 'gemini':
             gemini = import_local_module('lib/models/gemini_helper.py', 'gemini')
             self.fetch_response = gemini.fetch_response
@@ -20,11 +22,13 @@ class llm_helper:
             ef = gemma3.get_embeddings_once()
 
             
-            # build gemma3 database
-            gemma3.build_db(ef)
-            self.fetch_response = gemma3.rag_gemma
+            # build gemma3 database from the text. Might not need to call this
+            client, col = gemma3.build_db(ef)
+            self.fetch_response = gemma3.get_rag_gemma(ef, client, col)
         else:
             self.args.fetch_response = None
+
+        print('Lets goo ::')
 
     def loop(self):
         while not self.stop_e.is_set():
