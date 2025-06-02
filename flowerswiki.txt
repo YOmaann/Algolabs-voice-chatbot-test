@@ -1,0 +1,197 @@
+Flowers, also known as blooms and blossoms, are the reproductive structures of flowering plants (angiosperms). Typically, they are structured in four circular levels, called whorls, around the end of a stalk. These whorls include: calyx, modified leaves; corolla, the petals; androecium, the male reproductive unit consisting of stamens and pollen; and gynoecium, the female part, containing style and stigma, which receives the pollen, and ovary, which contains the ovules. When flowers are arranged in groups, they are known collectively as inflorescences.
+
+Floral growth originates at stem tips and is controlled by MADS-box genes. In most plant species flowers are heterosporous, and so can produce sex cells of both sexes. Pollination mediates the transport of pollen to the ovules in the ovaries, to facilitate sexual reproduction. It can occur between different plants, as in cross-pollination, or between flowers on the same plant—or even the same flower, as in self-pollination. Vectors transport the pollen between stamen and stigma. They may be living animals, such as birds and insects, or non-living factors such as wind and water. The colour and structure of flowers—such as nectaries and nectar guides—assist in pollination.
+
+After pollination, both sex cells (excluding their cell walls) and their nuclei are fused together in the process of fertilisation. The result is a cell called a zygote, which has two copies of each chromosome. Through cellular and nuclear division, the zygote grows into a seed, which contains structures to assist in the future plant's survival and growth. At the same time, the ovary forms into a fruit, and the other floral structures die. The function of fruit is to protect the seed and aid in dispersal. This dispersal is divided into vectors originating either from external sources, or from the plant itself. External vectors include both living things, such as animals and insects, and non-living things, such as wind and water.
+
+Flowers evolved between 150 and 190 million years ago, during the later part of the Jurassic period and Early Cretaceous. Angiosperms replaced non-flowering seed plants in many ecosystems, as a result of flowers' greater reproductive effectiveness. In plant taxonomy, which is the study of plant classification, flowers are a key feature used to differentiate plants. For thousands of years humans have used flowers for a variety of other purposes including: decoration, medicine, food, and perfumes. In human cultures, flowers are used symbolically and feature in art, literature, religious practices, ritual, and festivals.
+
+Etymology Although flowers are defined as the reproductive structures of angiosperms,[1] there are many gymnosperm cones which resemble flowers. The cones of Ginkgo biloba, for example, are mostly considered to be simple strobili, and not flowers.[2] Bloom is similarly defined, but may also be used to describe the collective of flowers on a plant; as in the phrase: covered with bloom.[3] Flower is also commonly used to describe the whole of a plant that produces flowers.[3]
+
+Flower is from the Middle English flour, which referred to both the ground grain and the reproductive structure in plants, before diverging in the 17th century.[4] It comes originally from the Proto-Italic *flōs ('flower'; cf. Latin flōs, flōris).[5] The Old English word for flower was blossom,[4] which is still in use, but refers especially to the flowers of edible fruit trees, and not to the whole flowering plant.[3] Flower, bloom, and blossom are all cognates and are derived from the Proto-Indo-European word *bʰleh₃ōs ('blossoming').[5] Both bloom and blossom refer to flowers as well as the state of flowering; as in the phrases: in bloom or in blossom.[3]
+
+Function The principal purpose of a flower is reproduction of the individual,[6] leading to the survival of the species.[7] Flowers not only produce spores, which become gametophytes that produce gametes (sex cells), leading to zygotes (fertilised cells), but also develop and help disseminate seeds.[8] Sexual reproduction between plants results in evolutionary adaptation, which improves species survival. For this reason, plants favour cross-pollination. Facilitating this process is a key function of flowers and is often reflected in their form and structure.[8] Specific structures to attract pollinators (animals that transport pollen), for example, are the most common adaptations.[9]
+
+Structure
+
+Main article: Floral morphology
+
+Diagram of flower structure
+
+The structure of a flower, termed its morphology,[10] can be considered in two parts: the vegetative part, consisting of non-reproductive structures such as petals; and the reproductive or sexual parts. A stereotypical, or complete,[11] flower is made up of four kinds of structures arranged in sets (whorls) around the tip of a short stalk or axis, called a receptacle.[12] The four main whorls (starting from the base of the flower or lowest node and working upwards) are the calyx, corolla, androecium, and gynoecium.[13]
+
+Vegetative
+
+Main article: Perianth
+
+The vegetative part of the flower, known collectively as the perianth, consists of calyx, the modified outer leaves, and corolla, the petals. The receptacle is the thickened part of the flower stalk, called the pedicel, which supports all of the other flower structures.[11][14]
+
+Calyx The sepals, collectively called the calyx, are modified leaves that occur on the outermost whorl of the flower. They are leaf-like,[15] in that they have a broad base, stomata (pores), chlorophyll (green pigment), and may have stipules (outgrowths from the leaf stem). Sepals are often waxy and tough, and grow quickly to protect the flower as it develops.[14][16] While sometimes deciduous (falling off at maturity), sepals more often persist to aid in fruit dispersal. If the calyx is partially or completely fused it is called gamosepalous.[16][17]
+
+Corolla The petals, collectively called the corolla,[18] are almost or completely fibreless leaf-like structures that form the innermost whorl of the perianth. They are often delicate and thin and are usually coloured, shaped, or scented, to encourage and facilitate pollination.[19] If the corolla is fused together it is called sympetalous.[20] In some flowers, petals and sepals are indistinguishable and are known as tepals.[21] Petals also tend to have patterns only visible under ultraviolet light, which is visible to pollinators but not to humans.[19]
+
+Reproductive
+
+Diagram of an anther in cross section. 1: Filament; 2: Theca; 3: Connective (the conducting vessels in red); 4: Pollen sac (also called sporangium)
+
+Diagram of angiosperm ovule
+
+Main article: Plant reproductive morphology
+
+All flowering plants are heterosporous, that is, every individual plant produces two types of spores. Meiosis is a type of cell division that occurs in angiosperms to produce microspores and megaspores; the precursors to pollen and embryo sacs (the gametophyes). Microspores are produced by meiosis inside anthers and megaspores are produced inside ovules contained within an ovary.
+
+Anthers, the tips of the male part of the flower (containing the pollen sacs),[18] typically consist of four microsporangia (tissues that produce microspores) and an ovule in an integumented (protected by a layer of tissue) megasporangium (tissue that produces a megaspore). Both types of spores develop into gametophytes (organisms that lead to creation of sex cells) inside sporangia. As with all heterosporous plants, the gametophytes also develop inside the spores, i.e., they are endosporic.[22]
+
+Male The androecium is the whorl of male parts called stamens, which producing pollen. Stamens consist typically of an anther, made up of four pollen sacs arranged in two thecae (sheaths), connected to a filament, or stalk.[18] The anther contains microspores which become pollen, the male gametophyte, after undergoing meiosis (cell division).[22] Although they exhibit the widest variation among floral organs,[note 1] the androecium is usually confined just to one whorl and to two whorls only in rare cases.[19][20]
+
+Female The gynoecium, consisting of one or more carpels, is the female part of the flower and found on the innermost whorl.[18] Each carpel consists of: a stigma, which receives pollen; a style, the stalk; and an ovary, which contains the ovules (containing the female gametophytes). Carpels may occur in one or more whorls, and when fused are often described as a pistil. Inside the ovary, the ovules are attached to the placenta by structures called funiculi.[24][25]
+
+Variation
+
+Diagram showing that: hermaphrodite flowers have both sexes, monoecious plants have sexes on different flowers, and dioecious plants have either just female or just male flowers.
+
+A healthy (left) and infected (right) Hydrangea flower. Phytoplasma has caused the flower to develop leaves in place of petals, an example of phyllody.[26]
+
+Although most plants have flowers with four whorls—calyx, corolla, androecium, and gynoecium—and their typical sub-structures, angiosperms exhibit wide variation in floral structure.[11][27] This variation encompasses all aspects of the flower, including size, shape, and colour.[11] Flowers range in size from less than 1 mm (1⁄25 in) (Wolffia) to 1 m (3.3 ft) in diameter (Rafﬂesia arnoldii).[28][29] Additionally, the four main parts of a flower are generally defined by their positions on the receptacle and not by their function. Many flowers lack some parts—known as incomplete—or parts may be modified into other functions or look like what is typically another part.[11][30][31] In some flowers, organs such as stamens, stigmas, and sepals are modified to resemble petals. This is most common in cultivation (such as of roses), where flowers with many additional "petals"—termed double flowers—are more attractive.[32][33]
+
+Most flowers have symmetry.[34] When the perianth is bisected through the central axis from any point and symmetrical halves are produced (as in sedges),[35] the flower is said to be actinomorphic or regular. This is an example of radial symmetry. If there is only one plane of symmetry (as in orchids),[36] the flower is said to be irregular or zygomorphic. If, in very rare cases, they have no symmetry at all they are called asymmetric.[37][38] Floral symmetry improves both rates of pollination and heat retention and is a key driver of diversity in flower morphology.[39]
+
+Flowers may be directly attached to the plant at their base (sessile—the supporting stalk or stem is highly reduced or absent).[40] There are several structures, found in some plants, that resemble flowers or floral organs. These include: coronas, crown-like outgrowths;[41] phyllody, leafy flower parts;[42] and pseudonectaries, that look like nectaries but do not contain nectar.[43]
+
+In the majority of species, individual flowers have both carpels (female parts) and stamens (male parts). These flowers are synonymously described as being perfect, bisexual, or hermaphrodite. In some species of plants, the flowers are imperfect or unisexual: having only either male or female parts. If unisexual male and female flowers appear on the same plant, the species is called monoecious. However, if an individual plant is either female or male, the species is called dioecious.[44] Many flowers have nectaries, which are glands that produce a sugary fluid (nectar) used to attract pollinators. They are not considered as an organ on their own.[45]
+
+Inflorescence
+
+Inflorescence of Eryngium flowers
+
+Floral diagram and formula for a Convolvulus flower[note 2]
+
+Main article: Inflorescence
+
+In those species that have more than one flower on an axis, the collective cluster of flowers is called an inflorescence.[11] The stem or stalk subtending a flower is called a pedicel. The main axis or stalk of an inflorescence (a cluster of flowers)[11] is called a peduncle.[46] Some inflorescences are composed of many small flowers arranged in a formation that resembles a single flower. These are known as pseudanthia.[47] Most members of the very large composite Asteraceae group have this morphology. A single daisy or sunflower, for example, is not a flower but a flower head—an inflorescence composed of numerous flowers or florets (small reduced flowers).[48] An inflorescence may include specialised stems and modified leaves known as bracts and smaller bracteoles.[12]
+
+Floral diagrams and formulae
+
+Main articles: Floral formula and Floral diagram
+
+A floral formula is a way to represent the structure of a flower using letters, numbers, and symbols, presenting substantial information about the flower in a compact form. It can represent a taxon or a particular species, and usually gives ranges for the numbers of different organs. The format of floral formulae differs in different parts of the world, but they convey the same information.[49][50]
+
+Floral diagrams are schematic diagrams that can be used to show important features of flowers, including the relative positions of the various organs, the presence of fusion and symmetry, and structural details.[51]
+
+Colour Buttercup petals exploit both yellow pigment and structural coloration. In contrast to the mostly green vegetative parts of plants, flowers are often colourful. This includes the petals and, in some plants, the stamens, anthers, stigmas, ovaries, pollen, styles, and even nectar.[52] These colours are produced principally by biological pigments, which are molecules that can absorb and retain energy from light.[53][54] Specific pigments, and so colours, provide different benefits to the plant. These benefits include protecting the plant against degradation and guiding pollinators—both general and specific—to the plant.[55][56]
+
+Colour, or colour-effects, may also be produced by structural coloration. This includes iridescence (as in some tulips) and photonic crystals (as in edelweiss).[57][58] The colour of flowers can also change; sometimes this is as a signal to pollinators (as in Viola cornuta). Change may also occur as a result of temperature; pH, as in the anthoxanthins found in Hydrangea; metals; sugars; and cell shape.[59]
+
+Development A flower develops on a modified shoot or axis from a determinate (growth-limited) apical meristem. The internodes—gaps between attachment points—are typically compressed, resulting in the close arrangement of floral organs.[60] All of the floral organs develop within a bud, that itself is enclosed by leaves, and other organs or axes.[61] Developmental studies have shown that floral organs can originate from modified stems (caulomes), leaves (phyllomes), and shoots.[62][63] All aspects of flower morphology and function are controlled by a gene regulatory network of MADS-box genes and associated proteins.[64][65]
+
+Transition The transition to flowering is one of the major phase changes that a plant makes during its life cycle.[11] The transition must take place at a time that is favourable for fertilisation and the formation of seeds, hence ensuring maximal reproductive success. To meet these needs a plant can interpret important endogenous (internal) and environmental cues such as: changes in levels of plant hormones (such as gibberellins),[66] seasonable temperature, and photoperiod (daylight) changes.[67] Many perennial (more than two-year lifespan) and biennial (two-year lifespan) plants require vernalisation (cold exposure) to flower.[66][68][69] These signals are molecularly interpreted through a complex signal called florigen, which involves a variety of genes. Florigen is produced in the leaves in reproductively favourable conditions and acts in stem tips to force switching from developing leaves to flowers.[70]
+
+The first step of the transition is the transformation of the vegetative stem primordia (groups of cells) into floral primordia. This occurs as biochemical changes take place to change the cellular differentiation of leaf, bud and stem tissues into tissue that will grow into the reproductive organs. The sides of the growing stem tip develop bulges, which then grow into the sepals, petals, stamens, and carpels.[71] Once this process begins, in most plants, it cannot be reversed and the stems develop flowers—even if the initial event was dependent on some environmental cue that is no longer present.[72] Once developed, flowers may selectively open and close their flowers at different times of day (nyctinasty); usually around dusk and dawn.[73] They may also track the path of the sun (heliotropism) to remain warm—potentially both for their own benefit and to attract pollinators. Both of these mechanisms are controlled by a plant's circadian rhythm and in response to environmental changes (in light, for example).[74]
+
+Organ development Diagram of the ABC model of development
+
+Main article: ABC model of flower development
+
+The ABC model was the first unifying principle in the development of flowers, and its major tenets have been found to hold in most flowering plants.[75] It describes how three groups of genes—A, B, and C—are responsible for the development of flowers. These three gene groups' activities interact in a combinatorial manner to determine the developmental identities of the primordia organ within the floral apical meristem. Alone, A genes produce sepals in the first whorl. Together, A and B produce the petals in the second whorl. C genes alone produce carpels in the centre of the flower. C and B together produce the stamens in the third whorl.[76] This can also be extended to the more complex ABCDE model, which adds an additional two gene groups to explain the development of structures like ovules.[77]
+
+Pollination
+
+Main article: Pollination
+
+A hoverfly pollinating Oxalis pes-caprae
+
+A grey-headed flying fox feeding on nectar
+
+Ophrys apifera, which has evolved to mimic a female bee[78]
+
+Mexican violetear, Colibri thalassinus, pollinating a flower
+
+Various examples of biotic pollination
+
+Since the flowers are the reproductive organs of the plant, they mediate the joining of the sperm, contained within pollen, to the ovules—contained in the ovary.[14] Pollination is this movement of pollen from the male parts (anthers) to the female parts (at the stigma).[79] It occurs either between flowers (or from one part of a flower to another) of the same plant, as in self-pollination, or between flowers of different plants, as in cross-pollination. Cross-pollination is more common in flowering plants as it increases genetic variation.[8][80] The period during which pollination can take place (when the flower is fully expanded and functional) is called anthesis.[81]
+
+Flowering plants usually face evolutionary pressure to optimise the transfer of their pollen, and this is typically reflected in their floral morphology and reproductive strategies.[82][83] Agents that transport pollen between plants are called vectors. Around 80% of flowering plants make use of biotic or living vectors. Others use abiotic (non-living) vectors, or some combination of the two.[84][85]
+
+Biotic pollination
+
+Further information: Pollination syndrome
+
+Flowers that use biotic vectors attract and use animals to transfer pollen from one flower to the next. Often they are specialised in shape and have an arrangement of stamens that ensures that pollen grains are transferred to the bodies of the pollinator when it lands in search of its attractant.[9] Flowers most commonly employ insects (entomophily),[86] but also: birds (ornithophily), bats (chiropterophily), lizards (saurophily),[87] other mammals,[88] snails and slugs (malacophily),[86] and in rare cases crustaceans and worms.[88] Most commonly, flowers are insect-pollinated, known as entomophilous; literally "insect-loving" in Greek.[89]
+
+Rewards given to pollinators by flowers in "payment" for pollination include: food (such as pollen, starch, or nectar), mates, shelter, a place to raise their young, and pseudocopulation (sexual deception).[90] They may also be attracted by various stimuli such as size, scent (as in carrion flowers), and colour—this includes nectar guides, which show pollinators where to look for nectar; they may be visible only under ultraviolet light.[9][91][92]
+
+Many flowers have close relationships with one or a few specific pollinating organisms. They may be structured to allow or encourage pollination from just one or a few species. This increases efficiency, because there is a higher chance pollination comes from pollen of the same species.[93] This close relationship is an example of coevolution, as the flower and pollinator have developed together over a long period to match each other's needs.[56]
+
+Abiotic pollination
+
+A male catkin of Populus tremula, which uses the wind to transport pollen to female flowers
+
+The female flower of Enhalus acoroides, which is pollinated by the flow of water
+
+Main articles: Anemophily and Hydrophily
+
+Flowers that use abiotic (non-living) vectors use the wind or, much less commonly, water, to move pollen from one flower to the next.[85] Wind-dispersed (anemophilous) species do not need to attract pollinators and therefore tend not to grow large, showy, or colourful flowers, and do not have nectaries, nor a noticeable scent.[93] Whereas the pollen of entomophilous flowers is usually large, sticky, and rich in protein (to act as a "reward" for pollinators), anemophilous flower pollen is typically small-grained, very light, smooth, and of little nutritional value to insects.[94][95]
+
+Fertilisation and seed development A flower's ovules are fertilised by sperm cells from pollen grains. Fertilisation Fertilisation, also called syngamy, is the fusion of the male and female sex cells, or gametes, to produce a zygote.[7] It is preceded by pollination, which is the movement of pollen from the stamen to the carpel. It encompasses both plasmogamy, the fusion of the protoplasts (cell without cell wall), and karyogamy, the fusion of the nuclei. When pollen lands on the stigma of the flower it begins creating a pollen tube, which runs down through the style and into the ovary. After penetrating the centre-most part of the ovary it enters the egg apparatus and into one synergid (specialised guiding cell).[96]
+
+After pollen enters the synergid, the end of the pollen tube bursts and releases the two sperm cells, one of which makes its way to an egg, while also losing its cell membrane and much of its protoplasm (jelly-like substance that fills cells). The sperm's nucleus then fuses with the egg's nucleus, resulting in the formation of a zygote; a diploid (two copies of each chromosome) cell.[7][96] In angiosperms, a process known as double fertilisation, which involves both karyogamy and plasmogamy, occurs. In double fertilisation the second sperm cell subsequently also enters the synergid and fuses with the two polar nuclei of the central cell. Since all three nuclei are haploid, they result in a large endosperm (nutrient tissue) nucleus which is triploid.[96]
+
+Seed and fruit development
+
+Main articles: Seed development and Fruit § Development
+
+Development of seeds (peas) and fruit (pod) from pea flower Following its formation, the zygote begins to grow through nuclear and cellular divisions, called mitosis, eventually becoming a small group of cells. One section of it becomes the embryo,[97] while the other becomes the suspensor; a structure which forces the embryo into the endosperm and is later undetectable. Two small primordia (groups of cells) also form at this time, that later become the cotyledon (initial leaf), which is used as an energy store. The next stage is called the torpedo stage and involves the growth of several key structures, including:radicle, the embryotic root; epicotyl, the embryotic stem; and hypocotyl, the root or shoot junction. In the final step vascular tissue develops around the seed.[98]
+
+The ovary, inside which the seed is forming from the ovule, grows into a fruit. All the other main floral parts wither and die during this development, including: the style, stigma, stamens, petals, and sepals. This process is called floral senescence; it is often accelerated or initiated by the completion of pollination. Death is preferred because flowers are costly to the plant; nevertheless, flowers can last for between a few hours and several months.[99][100] The fruit contains three main structures: the exocarp, or outer layer; the mesocarp, or the fleshy part; the endocarp, or innermost layer; and the pericarp, the fruit wall. The size, shape, toughness, and thickness varies among different dry and fleshy fruits. This is because it is directly connected to the method of seed dispersal, which is the purpose of fruit; to encourage or enable the seed's dispersal and protect the seed while doing so.[98][101]
+
+Seed dispersal
+
+Main articles: Biological dispersal and Seed dispersal
+
+Following the pollination of a flower, fertilisation, and finally the development of a seed and fruit, a mechanism (termed a vector) is typically used to disperse the fruit away from the plant.[102] In angiosperms, seeds are dispersed away from the plant so as to not force competition between the mother and the daughter plants,[103] as well as to enable the colonisation of new areas. Vectors can generally be divided into two categories: allochory (an external vector) or autochory (an internal vector); the plant itself.[104][105] Allochory can be undergone either by living (biotic) vectors such as birds or bats, or by non-living (abiotic) vectors such as water and wind.[104][106] Autochory includes, for example, the fruit exploding to release the seeds (ballochory), as in Hura crepitans.[107]
+
+Evolution
+
+Further information: Evolutionary history of plants § Flowers, and Floral biology
+
+Angiosperms now account for most of (land) plant diversity, thanks in large part to flowers.[108][109] Flowers originated between 150 and 190 million years ago, during the later part of the Jurassic period and Early Cretaceous.[110][111] Although molecular clock estimates suggest this early appearance of angiosperms, the earliest definitive evidence from the fossil record comes from between 125 and 130 years ago.[112][113][note 3] The exact time at which angiosperms diversified from other seed planta is a classic open question in evolutionary biology.[114][111] Prior to the advent of flowers, plants reproduced using cones (as in gymnosperms),[115] and spores (as in Pteridophytes).[116]
+
+The angiosperms' most significant evolutionary innovation was the flower.[108] In particular, flowers were able to have both male and female and parts on the same axis, and on this axis had carpels (to protect the ovules), stamens (to present the pollen), and the perianth (to provide protection). In addition, they pioneered double fertilisation, which allows energy investment (into endosperm) to be prolonged until after pollination. The gametophytes (both male and female), which lead to gametes (sex cells), were very reduced; this allowed for greater protection of this critical process.[117] The net effect of these features was greater reproductive security and efficiency.[111] This allowed the angiosperms to replace many other seed plants—such as Pinales, cycads, Gnetophyta and Ginkgoales—in the majority of ecosystems.[111]
+
+A key driving force in the evolution of flowers is coevolution, where pollinator and flower evolve with one-another,[118] often to their mutual benefit. This is particularly prominent in insect species such as bees, but is also found in flower-pollinator relationships with birds and bats. Many flowers have evolved in such a way so as to make pollination by specific species easier, thus providing greater efficiency and also ensuring higher rates of pollination. This is because they receive less pollen from other species.[56][93] However, this close interdependance increases the risk of extinction, since the extinction of either member almost certainly means the extinction of the other member as well.[119] Modern day flowers exhibit a variety of features derived through coevolution including: shape, size, symmetry, timing of flower opening, colour, scent, and pollinator rewards (including pollen, nectar, and oils).[9][92] For example, the flowers of Lonicera japonica strategically open during the night to attract nocturnal moths, which are more efficient pollinators than diurnal bees.[120]
+
+With the innovation of the flower—and other adaptations—angiosperms rapidly diversified.[note 4] Approximately 90% of all living land plants are angiosperms.[109] This is attributed, in part, to coevolution, which caused specialisation and so speciation.[121] Within the angiosperms, some flowers have features not found in other angiosperms. These include: petals; syncarpy; sympetaly and floral tubes; floral spurs; tenuinucellar (tissue surrounding embryo sac is thin); and unitegmic (only one integument) ovules.[122]
+
+Taxonomy
+
+Further information: Plant taxonomy and Linnaean taxonomy
+
+Linnaeus's diagram of 24 classes of sexual systems, from Systema Naturae
+
+Maximum likelihood diagram of a phylogenetic tree of orchids in the genus Vanilla
+
+Classical and modern approaches to angiosperm taxonomy
+
+In plant taxonomy, which is the study of plant classification and identification, the morphology of plants' flowers are used extensively—and have been for thousands of years.[123][124] Despite earlier works, Carl Linnaeus's 1753 book Species Plantarum, in which he laid out his system of classification, is regarded as the first taxonomic work to recognise the significance of flowers.[124][125] He identified 24 classes of (flowering) plants, based mainly on the number, length, and union of the stamens.[125][126][127] Subsequent systems in the 18th and 19th centuries focused more on natural characteristics. This included taking into account the rest of the plant, so that diverse plants weren't put into the same groups, as often happened in Linnaeus's system.[127][128][129]
+
+In 1963, the biologists Robert Sokal and Peter Sneath created the method of numerical taxonomy, which differentiates taxa based on their tabulated morphological characteristics; such as their flowers. This was an effort to make plant taxonomy more objective, but it remained inconsiderate of evolution, and so not useful in that context.[130] While this and earlier methods, such as Linnaeus's, used morphological features, many botanists today use more phylogenetic methods through the use of genetic sequencing, cytology (study of cells), and palynology (study of pollen). This comes as a result of advancement in DNA-related science.[131] Despite this, morphological characteristics such as the nature of the flower and inflorescence still make up the bedrock of plant taxonomy.[132][133][134]
+
+Uses
+
+Further information: Flowering plant § Human uses, and Human uses of plants
+
+Humans have used flowers globally for millennia for many purposes, including decoration, medicine, drugs,[135] food, spices,[136] perfumes,[137] and essential oils. Many flowers are edible and are often used in drinks and dishes, such as salads, for taste, scent, and decoration.[138] Some flowers are commonly described as vegetables, when in fact they are actually inflorescences, bracts, or stems of flowers. These include: broccoli, cauliflower, and artichoke. Flowers may be eaten freshly after being picked, termed floriphagia, or dried and eaten later.[139] Floristry is the production and sale of flowers, and involves preparing freshly cut flowers and arranging them—in a bouquet, for example—to the client's liking.[140]
+
+Most crop plants are angiosperms,[141] and they produce much of the most common crop products—such as seeds and fruits;[7] around half of all cropland is used to grow three angiosperms; rice, wheat, and corn.[142] Some flowers are steeped with or without Camellia sinensis (tea plant) to produce flower tea.[143] Essential oils and other flower extracts are widely used in herbal medicines and decoctions because they contain phytochemicals and may have anti-microbial effects.[144] Flowers from many plants are also used in the production of drugs, such as Cannabis sativa, Clivia miniata, and Catharanthus roseus.[135] Some flowers are used in cooking as spices, these include saffron and cloves; derived from Crocus and Syzygium aromaticum respectively.[136]
+
+In culture
+
+"I know a bank where the wild thyme blows, Where oxlips and the nodding violet grows, Quite over-canopied with luscious woodbine, With sweet musk-roses and with eglantine: There sleeps Titania sometime of the night, Lull’d in these flowers with dances and delight;"
+
+Poets often use flowers as imagery, as in this excerpt from Shakespeare's A Midsummer Night’s Dream
+
+Further information: Human uses of plants § Symbolic uses
+
+Flowers are the subject of much symbolism, and feature often in art, ritual, religious practices, and festivals. Plants have been cultivated in gardens for their flowers for around ten thousand years.[145][146] Flowers are associated with burial in many cultures, and are often placed by headstones to pay respect.[147][148] They are also placed by statues or temples of religious or other figures—sometimes formed into floral wreaths.[149][150] In some places, the dead are buried covered in flowers or on a bed of flowers.[151] They are also associated with love, and given to others in many places for this reason.[152] Economic demand has led to the cultivation of flowers that are longer-lasting, more colourful, and visually appealing.[153]
+
+Flowers feature extensively in art across a variety of mediums, and different flowers are ascribed symbolic meanings.[154][155] For example, violets may represent modesty, virtue, or affection.[156] In addition to hidden meanings, flowers are used in flags, emblems, and seals. In this way, they represent countries or places. Some countries have national flowers; for example, Hibiscus × rosa-sinensis is the national flower of Malaysia.[157] In literature, flowers feature in imagery of places and as metaphors for pleasure, beauty, and life.[158]

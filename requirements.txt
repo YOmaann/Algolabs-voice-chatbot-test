@@ -1,0 +1,34 @@
+attr==0.3.2
+chromadb==1.0.10
+ConfigParser==7.2.0
+contextlib2==21.6.0
+cryptography==45.0.3
+docutils==0.21.2
+filelock==3.18.0
+HTMLParser==0.0.2
+importlib_metadata==8.6.1
+#importlib_metadata==8.0.0 # causing conflict
+indic_transliteration==2.3.69
+ipython==9.2.0
+ipywidgets==8.1.7
+Jinja2==3.1.6
+#jnius==1.1.0 ModuleNotFoundError: No module named 'Cython' | You need Cython to compile Pyjnius.
+keyring==25.6.0
+langchain
+langchain-core
+langchain-huggingface
+langchain-ollama
+langchain-chroma
+mock==5.2.0
+Pillow==11.2.1
+protobuf==6.31.0
+pyOpenSSL==25.1.0
+railroad==0.5.0
+redis==6.1.0
+speechrecognition==3.14.3
+Sphinx==8.2.3
+thread==2.0.5
+torch==2.7.0 #+cu128 #cant find this one
+tornado==6.5.1
+urllib3_secure_extra==0.1.0
+# xmlrpclib==1.0.1 #pip couldnt find 
