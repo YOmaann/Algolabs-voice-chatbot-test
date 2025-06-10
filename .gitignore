@@ -1,0 +1,7 @@
+models/
+!.gitignore
+*~
+.*
+__pycache__/
+output.prof
+tests/
