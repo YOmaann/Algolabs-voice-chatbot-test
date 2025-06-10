@@ -1,5 +1,5 @@
 import ollama
-from lib.llmm.rag.testchromadb import find_context, build_db, get_embeddings_once
+from lib.text_text.rag.testchromadb import find_context, build_db, get_embeddings_once
 #help(ollama.chat)
 
 def get_rag_gemma(ef, client, coll = None):
