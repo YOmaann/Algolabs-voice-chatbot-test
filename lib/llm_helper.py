@@ -16,7 +16,7 @@ class llm_helper:
             gemini = import_local_module('lib/models/gemini_helper.py', 'gemini')
             self.fetch_response = gemini.fetch_response
         elif self.args.llm == 'gemma3':
-            gemma3 = import_local_module('lib/llmm/llmprompting/gemmacall.py', 'gemma3')
+            gemma3 = import_local_module('lib/text_text/llmprompting/gemmacall.py', 'gemma3')
 
             # Load embedding function
             ef = gemma3.get_embeddings_once()
