@@ -7,6 +7,15 @@ class speech_callback:
     def __init__(self, _args, queue):
         self.args = _args
         self.queue = queue
+
+        # Custom recognizer initializers
+        print('Loading STT model..')
+        if _args.stt == 'faster_whisper':
+            from lib.stt_models.faster_whisper import get_recognizer
+            self.recognize_faster_whisper = get_recognizer()
+
+        print('Loaded STT model :)')    
+            
     
     def _cb(self, r, audio):
         print("Listened a phrase ;)))")
@@ -23,7 +32,7 @@ class speech_callback:
                 txt = r.recognize_whisper(audio)
                 self.queue.put(txt)
             elif self.args.stt == 'faster_whisper':
-                txt = r.recognize_faster_whisper(audio)
+                txt = self.recognize_faster_whisper(audio)
                 self.queue.put(txt)
             elif self.args.stt == 'openai':
                 txt = r.recognize_openai(audio)

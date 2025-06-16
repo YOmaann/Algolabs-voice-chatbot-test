@@ -2,7 +2,7 @@ import chromadb
 import torch
 from chromadb.utils import embedding_functions
 
-def chunking(filepath = './Dataset/engdoc1.txt'): #.txt file in the form of Q: '' \n A: '' \n and so on
+def chunking(filepath = './Dataset/hindoc.txt'): #.txt file in the form of Q: '' \n A: '' \n and so on
     documents = []
     ids=[]
 
@@ -55,6 +55,7 @@ def find_context(query, ef = None, client = None, coll = None, model_name="sente
             print('Client not found :((')
             client = chromadb.PersistentClient(path="store")
         if coll == None:
+            print('Column not loaded in ChromaDB :(')
             coll = client.get_or_create_collection(name="testcoll", embedding_function=ef)
         results = coll.query(
             query_texts=[query],
