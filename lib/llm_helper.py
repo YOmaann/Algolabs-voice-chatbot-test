@@ -25,6 +25,11 @@ class llm_helper:
             # build gemma3 database from the text. Might not need to call this
             client, col = gemma3.build_db(ef)
             self.fetch_response = gemma3.get_rag_gemma(ef, client, col)
+        elif self.args.llm == 'helpful':
+            helpful = import_local_module('lib/text_text/chatbot/chatbot.py', 'helpful')
+
+            agent = helpful.MyHelpfulBot(model="qwen2.5:7b")
+            self.fetch_response = agent.chat
         else:
             self.args.fetch_response = None
 

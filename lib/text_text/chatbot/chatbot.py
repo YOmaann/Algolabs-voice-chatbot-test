@@ -24,7 +24,8 @@ class MyHelpfulBot():
     def __init__(self, model="qwen2.5:7b", persist_directory="db"):
         self.llm = ChatOllama(model=model, temperature=0.1)
         self.embedfn = HuggingFaceEmbeddings(
-            model_name="sentence-transformers/all-MiniLM-L6-v2")#,  model_kwargs={"device": "cuda:0"})
+            model_name="sentence-transformers/all-MiniLM-L6-v2",
+            model_kwargs={"device": "cuda:0"})
         
         self.vectorstores = {
             "mycoll": Chroma(
@@ -251,41 +252,41 @@ class MyHelpfulBot():
             print(f"Error clearing memory: {e}")
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    agent = MyHelpfulBot(model="qwen2.5:3b")
-    #print(agent.find_context.args_schema.model_json_schema()) # can add Annotated args 
-    print("Chatbot initialised! Type 'quit' to exit, 'clear' to clear memory.")
-    print("You can ask questions about the documents in your collection.")
+#     agent = MyHelpfulBot(model="qwen2.5:3b")
+#     #print(agent.find_context.args_schema.model_json_schema()) # can add Annotated args 
+#     print("Chatbot initialised! Type 'quit' to exit, 'clear' to clear memory.")
+#     print("You can ask questions about the documents in your collection.")
 
-    while True:
-        try:
-            user_input = input("\nYou: ").strip()
+#     while True:
+#         try:
+#             user_input = input("\nYou: ").strip()
             
-            if user_input.lower() in ['quit', 'exit', 'q']:
-                print("Goodbye!")
-                #print(agent.get_summary())
-                print(agent.get_full_conversation_history())
-                break
-            elif user_input.lower() == 'clear':
-                agent.clear_memory()
-                print("Memory cleared!")
-                continue
-            elif not user_input:
-                continue
+#             if user_input.lower() in ['quit', 'exit', 'q']:
+#                 print("Goodbye!")
+#                 #print(agent.get_summary())
+#                 print(agent.get_full_conversation_history())
+#                 break
+#             elif user_input.lower() == 'clear':
+#                 agent.clear_memory()
+#                 print("Memory cleared!")
+#                 continue
+#             elif not user_input:
+#                 continue
             
-            # Get response from the bot
-            start = time.time()
-            response = agent.chat(user_input)
-            time_taken = time.time()-start
-            print(f"\nBot: {response}\n({time_taken} seconds)")
+#             # Get response from the bot
+#             start = time.time()
+#             response = agent.chat(user_input)
+#             time_taken = time.time()-start
+#             print(f"\nBot: {response}\n({time_taken} seconds)")
             
-        except KeyboardInterrupt:
-            print("\nGoodbye!")
-            break
-        except Exception as e:
-            print(f"Error: {e}")
-            print("Please try again.")
+#         except KeyboardInterrupt:
+#             print("\nGoodbye!")
+#             break
+#         except Exception as e:
+#             print(f"Error: {e}")
+#             print("Please try again.")
 
     #print("Conversation history: \n\n")
     #print(agent.get_full_conversation_history())
