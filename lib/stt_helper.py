@@ -65,7 +65,7 @@ class speech_helper:
         with self.m as source:
             self.r.adjust_for_ambient_noise(source)
 
-
+    
     def loop(self):
         stop_listening = self.r.listen_in_background(self.m, speech_callback(self.args, self.queue)._cb)
 
@@ -73,4 +73,3 @@ class speech_helper:
 
         return stop_listening
         #stop_listening(wait_for_stop=False)
-
