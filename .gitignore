@@ -6,3 +6,4 @@ __pycache__/
 output.prof
 tests/
 ai4bharat/
+.python-version

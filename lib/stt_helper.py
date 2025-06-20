@@ -13,6 +13,9 @@ class speech_callback:
         if _args.stt == 'faster_whisper':
             from lib.stt_models.faster_whisper import get_recognizer
             self.recognize_faster_whisper = get_recognizer()
+        elif _args.stt == 'hindi_whisper':
+            from lib.stt_models.hindi_whisper import get_recognizer
+            self.recognize_hindi_whisper = get_recognizer()
 
         print('Loaded STT model :)')    
             
@@ -43,6 +46,10 @@ class speech_callback:
             elif self.args.stt == 'vosk':
                 txt = r.recognize_vosk(audio)
                 self.queue.put(txt)
+            elif self.args.stt == 'hindi_whisper':
+                txt = self.recognize_hindi_whisper(audio)
+                self.queue.put(txt)
+                
             else:
                 print('No model selected bhai ))')
 
