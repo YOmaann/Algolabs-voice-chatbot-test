@@ -23,7 +23,7 @@ class ChatBotState(TypedDict):
 
 class MyHelpfulBot():
     def __init__(self, model="deepseek-r1-distill-llama-70b", persist_directory="podak"):
-        os.environ["GROQ_API_KEY"] = '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'
+        os.environ["GROQ_API_KEY"] = GROQ_API_KEY
         self.llm = ChatGroq(
             model=model,
             temperature=0.4,
